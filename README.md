@@ -145,4 +145,4 @@ This project is licensed under the MIT License.
 
 - Portfolio: https://sharonlawal.vercel.app
 - GitHub: https://github.com/thistechbabe1
-- LinkedIn: https://linkedin.com/in/sharon-lawal-9b7289261
+- LinkedIn: https://linkedin.com/in/sharon-lawal
