@@ -2,7 +2,7 @@
 
 A modern React-based skincare product showcase designed to help users explore, filter, and compare skincare products through a clean, responsive, and user-friendly interface. The project focuses on delivering an intuitive browsing experience with optimized performance and a mobile-first design.
 
-> **Live Demo:** https://your-live-demo-link.com  
+> **Live Demo:** https://skinsphere-hng.vercel.app/
 > **GitHub Repository:** https://github.com/thistechbabe1/skinsphere
 
 ---
@@ -31,25 +31,6 @@ A modern React-based skincare product showcase designed to help users explore, f
 - Git
 - GitHub
 - Vite
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of the application here.
-
-### Home Page
-
-![Home Page](./screenshots/home.png)
-
-### Product Listing
-
-![Products](./screenshots/products.png)
-
-### Product Comparison
-
-![Comparison](./screenshots/comparison.png)
-
 ---
 
 ## 🚀 Getting Started
